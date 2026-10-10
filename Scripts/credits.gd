@@ -11,7 +11,7 @@ func BtnPressed(btn_name: String):
 		"LinkedIn":
 			OS.shell_open("https://linkedin.com/in/pedro-henrique-pereira-favela")
 		"Github":
-			OS.shell_open("https://github.com/Pedro-Favela")
+			OS.shell_open("https://github.com/Triz-Favela")
 		"Back":
 			get_tree().change_scene_to_file("res://Scenes/menu.tscn")
 

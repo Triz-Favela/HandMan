@@ -15,8 +15,7 @@ offset_bottom = 240.0
 theme = ExtResource("1_v7fk0")
 theme_override_font_sizes/normal_font_size = 23
 bbcode_enabled = true
-text = "[center]Jogo criado como um meio de estudo, por mim, [wave] Pedro Favela[/wave].
-Me diverti muito produzindo esse jogo, por mais simples que ele seja e espero conseguir criar muitos outros,
+text = "[center]Jogo criado como um meio de estudo, por [wave] Pedro Favela[/wave].
 
 Obrigado por tirar um tempo pra testar meu simples jogo, espero que tenha se divertido jogando tanto quanto eu me diverti programando <3"
 
@@ -26,7 +25,7 @@ offset_top = 519.0
 offset_right = 844.0
 offset_bottom = 542.0
 theme = ExtResource("1_v7fk0")
-text = "https://github.com/Pedro-Favela"
+text = "https://github.com/Triz-Favela"
 
 [node name="Label2" type="Label" parent="."]
 offset_left = 169.0
